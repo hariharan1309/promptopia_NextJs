@@ -34,3 +34,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+<!-- 
+    GOOGLE_ID=306143765702-q2a470e8hign6o3qc8ptpcpuunu2jaoj.apps.googleusercontent.com
+            #   306143765702-q2a470e8hign6o3qc8ptpcpuunu2jaoj.apps.googleusercontent.com
+
+    GOOGLE_CLIENT_SECRET=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
+    # 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
+
+    MONGODB_URI=mongodb+srv://hariharan1309:Hardik1309@cluster0.woi8k.mongodb.net/?retryWrites=true&w=majority
+    # not include @ on the name /password of mongodb cluster not the account password
+    NEXTAUTH_URL=http://localhost:3000
+    NEXTAUTH_URL_INTERNAL=http://localhost:3000
+    NEXTAUTH_SECRET=2yqbbqdJb2ELTIZ/XKzLqlHjZOUbiGpcM93lYwgxk0o=
+ -->
